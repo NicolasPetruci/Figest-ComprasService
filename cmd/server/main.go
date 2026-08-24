@@ -19,6 +19,4 @@ func main() {
 	r.Run(":3003")
 }
 
-// Refatorado para melhor legibilidade
 
-// Ajustes de performance na inicialização
