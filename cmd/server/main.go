@@ -18,3 +18,5 @@ func main() {
 	log.Println("Starting server on port 3003...")
 	r.Run(":3003")
 }
+
+// Refatorado para melhor legibilidade
